@@ -17,7 +17,8 @@ and I want to be the one building it — not watching.
 Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API[session-1-notes.md.txt](https://github.com/user-attachments/files/27252470/session-1-notes.md.txt)
 
 
-## What I learnt in week 1 (session 1)
+## What I learnt in week 1 
+   `session 1`
 - `AI basics:`AI is based on pattern recognition and prediction
 - AI>ML>DL ; AI mimics human intelligence, Ml learns from data, while DL uses neural networks to handle large datasets.
 - Examples: Moves in AlphaGo & chess, self driving cars, understanding language (spam filter), movie recommendation
