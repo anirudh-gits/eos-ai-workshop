@@ -36,5 +36,6 @@ Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API[session-1-
 - Fuctions can be defined and reused, as and when required
 - NumPy is a library, which makes the process 10-50 times faster when big datasets are involved.
 - The library is imported. With that we can create vectors and matrices using arrays() function, slice it using indices and reshape it.Arrays include Images, audio,video,text 
-  
+  https://colab.research.google.com/drive/1H_n7mVh1vi8Fs2UMHqmhDi-vNnsdshAc
+  https://colab.research.google.com/drive/1_LhpGnbaSBlQtSWxtG4fi6_svZhH1Pq0
 
