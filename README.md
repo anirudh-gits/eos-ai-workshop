@@ -43,6 +43,6 @@ Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API[session-1-
  - https://colab.research.google.com/drive/1z_M7Epr1-nCWppVq9PQgkLQ7Hl6BE5sH#scrollTo=8WqwwUUHkFjF
  - https://colab.research.google.com/drive/1wpIGT4zqV-zI_5YayQXMA4YGCmrZYpah#scrollTo=_BdwmpwQBy5m
  - https://colab.research.google.com/drive/1z_M7Epr1-nCWppVq9PQgkLQ7Hl6BE5sH
- - 
+ - https://colab.research.google.com/drive/1IdiH4tO5W4XZY8u7Q-jvtWywr_VhUqNX#scrollTo=pfYRDfh3Okil
 
 
